@@ -1,4 +1,4 @@
-# [Deperecated] Check the new version here : [Atom-Clicker-Svelte](https://github.com/Ayfri/Atom-Clicker)
+# [Deperecated] Check the new version here : [Atom-Clicker](https://github.com/Ayfri/Atom-Clicker)
 
 # atom-clicker-pixi
 
