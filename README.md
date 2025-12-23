@@ -1,5 +1,5 @@
-# [Deperecated] Checkout the new version here : [Atom-Clicker-Svelte](https://github.com/Ayfri/Atom-Clicker-Svelte)
+# [Deperecated] Check the new version here : [Atom-Clicker-Svelte](https://github.com/Ayfri/Atom-Clicker)
 
-# atom-clicker
+# atom-clicker-pixi
 
 A simple clicker game with the theme of atoms.
